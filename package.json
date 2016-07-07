@@ -1,6 +1,6 @@
 {
   "name": "atom-fontawesome",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Provides Fontawesome autocompletes",
   "engines": {
     "atom": ">1.0.0"
