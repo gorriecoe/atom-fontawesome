@@ -1,0 +1,19 @@
+{
+  "name": "atom-fontawesome",
+  "version": "0.0.0",
+  "description": "Provides Fontawesome autocompletes",
+  "engines": {
+    "atom": ">1.0.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gorriecoe/atom-fontawesome.git"
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/gorriecoe/atom-fontawesome/issues"
+  },
+  "homepage": "https://github.com/gorriecoe/atom-fontawesome",
+  "license": "MIT"
+}
