@@ -4,3 +4,7 @@
     'body': """
     <i class="fa ${1}" aria-hidden="true"></i>${0}
     """
+".text.haml":
+  'Fontawesome Icon Haml':
+    'prefix': 'fa'
+    'body': "%i.fa.${1}{\"aria-hidden\" => \"true\"}${0}"
