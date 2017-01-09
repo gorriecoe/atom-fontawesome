@@ -1,64 +1,24 @@
 {
-  "_args": [
-    [
-      {
-        "raw": "/private/var/folders/8k/3j613d0x557gykhkl8jbwm8h0000gn/T/d-11709-9232-fia3zo/package.tgz",
-        "scope": null,
-        "escapedName": null,
-        "name": null,
-        "rawSpec": "/private/var/folders/8k/3j613d0x557gykhkl8jbwm8h0000gn/T/d-11709-9232-fia3zo/package.tgz",
-        "spec": "/private/var/folders/8k/3j613d0x557gykhkl8jbwm8h0000gn/T/d-11709-9232-fia3zo/package.tgz",
-        "type": "local"
-      },
-      "/private/var/folders/8k/3j613d0x557gykhkl8jbwm8h0000gn/T/apm-install-dir-11709-9232-14e9sv7"
-    ]
-  ],
-  "_from": "../d-11709-9232-fia3zo/package.tgz",
-  "_id": "atom-fontawesome@0.2.0",
-  "_inCache": true,
-  "_installable": true,
-  "_location": "/atom-fontawesome",
-  "_phantomChildren": {},
-  "_requested": {
-    "raw": "/private/var/folders/8k/3j613d0x557gykhkl8jbwm8h0000gn/T/d-11709-9232-fia3zo/package.tgz",
-    "scope": null,
-    "escapedName": null,
-    "name": null,
-    "rawSpec": "/private/var/folders/8k/3j613d0x557gykhkl8jbwm8h0000gn/T/d-11709-9232-fia3zo/package.tgz",
-    "spec": "/private/var/folders/8k/3j613d0x557gykhkl8jbwm8h0000gn/T/d-11709-9232-fia3zo/package.tgz",
-    "type": "local"
-  },
-  "_requiredBy": [
-    "#USER"
-  ],
-  "_resolved": "file:../d-11709-9232-fia3zo/package.tgz",
-  "_shasum": "b412d6c989cc4652b99063db6061ab770270f5aa",
-  "_shrinkwrap": null,
-  "_spec": "/private/var/folders/8k/3j613d0x557gykhkl8jbwm8h0000gn/T/d-11709-9232-fia3zo/package.tgz",
-  "_where": "/private/var/folders/8k/3j613d0x557gykhkl8jbwm8h0000gn/T/apm-install-dir-11709-9232-14e9sv7",
-  "bugs": {
-    "url": "https://github.com/gorriecoe/atom-fontawesome/issues"
-  },
-  "dependencies": {},
+  "name": "atom-fontawesome",
+  "version": "0.2.0",
   "description": "Provides Fontawesome autocompletes",
-  "devDependencies": {},
-  "engines": {
-    "atom": ">1.0.0"
-  },
-  "homepage": "https://github.com/gorriecoe/atom-fontawesome",
   "keywords": [
     "fontawesome",
     "font-awesome",
     "font awesome"
   ],
-  "license": "MIT",
-  "name": "atom-fontawesome",
-  "optionalDependencies": {},
-  "readme": "# Fontawesome\n\nBased on [V Bootstrap4's](https://github.com/thevuong/v-bootstrap4), this package only provides [Fontawesome](http://fontawesome.io/) autocompletes.\n\n## Installation\n\nUsing `apm`:\n\n```\napm install atom-fontawesome\n```\n\nOr search for `atom-fontawesome` in Atom settings view.\n",
-  "readmeFilename": "README.md",
+  "engines": {
+    "atom": ">1.0.0"
+  },
+  "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gorriecoe/atom-fontawesome.git"
+    "url": "https://github.com/gorriecoe/atom-fontawesome.git"
   },
-  "version": "0.2.0"
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/gorriecoe/atom-fontawesome/issues"
+  },
+  "homepage": "https://github.com/gorriecoe/atom-fontawesome",
+  "license": "MIT"
 }
