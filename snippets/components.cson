@@ -8,3 +8,9 @@
   'Fontawesome Icon Haml':
     'prefix': 'fa'
     'body': "%i.fa.${1}{\"aria-hidden\" => \"true\"}${0}"
+".source.jsx":
+  'Fontawesome Icon React':
+    'prefix': 'fa'
+    'body': """
+    <i className="fa ${1}" aria-hidden="true"></i>${0}
+    """
