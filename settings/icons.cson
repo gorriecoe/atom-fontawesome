@@ -1,4 +1,4 @@
-'.text.html, .text.haml, .source.css, .source.sass, .source.less, .source.jade':
+'.text.html, .text.haml, .source.jsx, .source.css, .source.sass, .source.less, .source.jade':
   'editor':
     'completions': [
       'fa-lg'
